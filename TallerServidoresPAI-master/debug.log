@@ -1,0 +1,3 @@
+[0709/202223:ERROR:file_io_win.cc(227)] SetEndOfFile: La operación solicitada no se puede realizar en un archivo con una sección asignada a usuario abierta. (0x4C8)
+[0709/203516:ERROR:file_io_win.cc(227)] SetEndOfFile: La operación solicitada no se puede realizar en un archivo con una sección asignada a usuario abierta. (0x4C8)
+[0709/203516:ERROR:file_io_win.cc(227)] SetEndOfFile: La operación solicitada no se puede realizar en un archivo con una sección asignada a usuario abierta. (0x4C8)
